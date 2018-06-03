@@ -155,7 +155,7 @@
         <scene sceneID="xhV-nn-QuS">
             <objects>
                 <viewController id="mac-x4-UWZ" customClass="StreamViewController" customModule="ONVIFCamera_Example" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" alpha="0.0" contentMode="scaleToFill" id="jkj-M7-hLg">
+                    <view key="view" contentMode="scaleToFill" id="jkj-M7-hLg">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
