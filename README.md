@@ -1,5 +1,5 @@
-# ONVIFSnapShot
-iOS take snapshot and save in photo album for ONVIF camera
+# ONVIF AI
+Real-time object recogintion using Vision, CoreML, and InceptionV3 Model for ONVIF camear.
 
-![SnapShot1](https://github.com/coolioxlr/ONVIFSnapShot/blob/master/images/snapshot1.png)
-![SnapShot2](https://github.com/coolioxlr/ONVIFSnapShot/blob/master/images/snapshot2.png)
+![SnapShot1](https://github.com/coolioxlr/ONVIFCorelML/blob/master/images/ai1.png)
+![SnapShot3](https://github.com/coolioxlr/ONVIFCorelML/blob/master/images/ai3.png)
